@@ -1,0 +1,122 @@
+body {
+    background-image: url("/img/home/wood2.jpg");
+}
+
+#content {
+    padding: 0 30px;
+    min-height: 700px;
+}
+
+.main-title {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    letter-spacing: 0.1rem;
+}
+
+.container {
+    margin: 0 auto;
+    width: 80%;
+    background-color: ivory;
+}
+
+nav {
+    background-color: rgb(40, 176, 15);
+    color: #fff;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+    padding: 20px 0;
+}
+
+footer {
+    background-color: rgb(40, 176, 15);
+    color: #fff;
+    text-align: center;
+    letter-spacing: 0.1rem;
+    padding: 10px;
+}
+
+@import 'navbar';
+
+@media only screen and (min-width: 768px) {
+    .project-container {display: flex;}
+    .project-container .project-list { width: 20%;}
+    .project-container .project { flex: 1; }
+}
+
+.oss {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.oss article {
+    border: 1px solid #ddd;
+    box-shadow: 3px 3px 3px #ddd;
+    margin: 0.5%;
+    padding: 0.5%;
+    width: 30%;
+}
+
+a.tag {
+    background-color: #ddd;
+    color: #333;
+    display: inline-block;
+    padding: 0.1em;
+    font-size: 0.9em;
+    text-decoration: none;
+}
+
+.pagination {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    margin: 1em auto;
+    padding: 0;
+}
+@media only screen and (min-width: 768px) {
+    .pagination {
+        width: 30%;
+    }
+}
+
+.pagination > .page-item {
+    border: 1px solid #ddd;
+    flex: 1;
+    text-align: center;
+    width: 5em;
+}
+
+.pagination .page-link {
+    display: block;
+    color: #000;
+    text-decoration: none;
+}
+
+.pagination > .page-item.active {
+    background-color: #333;
+}
+.pagination > .page-item.active > .page-link {
+    color: #fff;
+}
+.pagination > .page-item.disabled > .page-link {
+    color: #ddd;
+}
+
+figure img {
+    max-width: 100%;
+    height: auto;
+}
+
+img[alt=home] {
+    width: 100%;
+    margin: 0 auto;
+}
+
+li {
+    margin-left:1em;
+}
+
+@import 'books';
+@import 'tech';

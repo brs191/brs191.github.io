@@ -1,0 +1,60 @@
+{{ define "main" }}
+
+    <h3>{{ .Content }}</h3>
+
+<div class="tech">
+    <section class="microservices">
+        <h3>Microservices</h3>
+        {{ range .Pages }}
+        {{- if hasPrefix .RelPermalink "/tech/microservices/" -}}
+        <li><a href="{{.RelPermalink}}">{{ .Title }}</a></li>
+        {{ end }}
+        {{ end }}
+    </section>
+
+    <section class="kubernetes">
+        <h3>Kubernetes</h3>
+        {{ range .Pages }}
+        {{- if hasPrefix .RelPermalink "/tech/kubernetes/" -}}
+        <li><a href="{{.RelPermalink}}">{{ .Title }}</a></li>
+        {{ end }}
+        {{ end }}
+    </section>
+
+    <section class="golang">
+        <h3>Golang</h3>
+        {{ range .Pages }}
+        {{- if hasPrefix .RelPermalink "/tech/golang/" -}}
+        <li><a href="{{.RelPermalink}}">{{ .Title }}</a></li>
+        {{ end }}
+        {{ end }}
+    </section>
+
+    <section class="vertx">
+        <h3>Vertx</h3>
+        {{ range .Pages }}
+        {{- if hasPrefix .RelPermalink "/tech/vertx/" -}}
+        <li><a href="{{.RelPermalink}}">{{ .Title }}</a></li>
+        {{ end }}
+        {{ end }}
+    </section>
+
+    <section class="rcs">
+        <h3>Rich Communication Suite</h3>
+        {{ range .Pages }}
+        {{- if hasPrefix .RelPermalink "/tech/rcs/" -}}
+        <li><a href="{{.RelPermalink}}">{{ .Title }}</a></li>
+        {{ end }}
+        {{ end }}
+    </section>
+
+    <section class="ims">
+        <h3>IP Based Multimedia Sub-System</h3>
+        {{ range .Pages }}
+        {{- if hasPrefix .RelPermalink "/tech/ims/" -}}
+        <li><a href="{{.RelPermalink}}">{{ .Title }}</a></li>
+        {{ end }}
+        {{ end }}
+    </section>
+</div>
+{{ end }}

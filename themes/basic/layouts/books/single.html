@@ -1,0 +1,55 @@
+{{ define "main" }}
+<div class= "books-container" >
+    <section class="books-list">
+        <h3>Life</h3>
+        {{ range (where .Site.RegularPages "Type" "in" "books") }}
+            {{- if hasPrefix .RelPermalink "/books/life/" -}}
+                <li><a href="{{.RelPermalink}}">{{ .Title }}</a></li>
+            {{end}}
+        {{end}}
+
+        <h3>Money</h3>
+        {{ range (where .Site.RegularPages "Type" "in" "books") }}
+        {{- if hasPrefix .RelPermalink "/books/money/" -}}
+        <li><a href="{{.RelPermalink}}">{{ .Title }}</a></li>
+        {{end}}
+        {{end}}
+
+        <h3>Health</h3>
+        {{ range (where .Site.RegularPages "Type" "in" "books") }}
+        {{- if hasPrefix .RelPermalink "/books/health/" -}}
+        <li><a href="{{.RelPermalink}}">{{ .Title }}</a></li>
+        {{end}}
+        {{end}}
+
+        <h3>Fiction</h3>
+        {{ range (where .Site.RegularPages "Type" "in" "books") }}
+        {{- if hasPrefix .RelPermalink "/books/fiction/" -}}
+        <li><a href="{{.RelPermalink}}">{{ .Title }}</a></li>
+        {{end}}
+        {{end}}
+
+    </section>
+
+    <section class="book">
+        <h2>{{ .Title }}</h2>
+        <img alt= "{{ .Params.alt_text }}" src= "{{ .Params.image }}" width="30%" height="50%">
+
+        <p>Reading time: {{ math.Round (div (countwords .Content) 200.0) }} minutes.
+        <span class= "tags" >
+                {{ range .Params.tags }}
+                <span><a class= "tag" href= "/tags/{{ . | urlize }}" >{{ . }}</a></span>
+                {{ end }}
+            </span>
+        </p>
+        <h3>{{ .Content }}</h3>
+
+        <br>
+        <h3>Comments</h3>
+        {{ template "_internal/disqus.html" . }}
+
+    </section>
+
+
+</div>
+{{ end }}

@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Life is BeautiFULL</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Life is BeautiFULL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Jun 2022 21:19:02 +0900</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Search</title>
+      <link>http://example.org/search/</link>
+      <pubDate>Sat, 25 Jun 2022 10:12:02 +0900</pubDate>
+      
+      <guid>http://example.org/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forth Post</title>
+      <link>http://example.org/posts/2022/06/forth-post/</link>
+      <pubDate>Wed, 22 Jun 2022 21:19:02 +0900</pubDate>
+      
+      <guid>http://example.org/posts/2022/06/forth-post/</guid>
+      <description>Jana-gana-mana-adhinayaka, jaya he
+Bharata-bhagya-vidhata.
+Punjab-Sindh-Gujarat-Maratha
+Dravida-Utkala-Banga
+Vindhya-Himachala-Yamuna-Ganga
+Uchchala-Jaladhi-taranga.
+Tava shubha name jage,
+Tava shubha asisa mage,
+Gahe tava jaya gatha,
+Jana-gana-mangala-dayaka jaya he
+Bharata-bhagya-vidhata.
+Jaya he, jaya he, jaya he, Jaya jaya jaya, jaya he!</description>
+    </item>
+    
+    <item>
+      <title>Third Post</title>
+      <link>http://example.org/posts/2022/06/third-post/</link>
+      <pubDate>Wed, 22 Jun 2022 20:57:03 +0900</pubDate>
+      
+      <guid>http://example.org/posts/2022/06/third-post/</guid>
+      <description>&lt;p&gt;I found that nothing in life is worthwhile unless you take risks. Nothing. Nelson Mandela said, “There is no passion to be found, playing small and settling for a life that’s less than the one you’re capable of living.”&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Second Post</title>
+      <link>http://example.org/posts/2022/06/second-post/</link>
+      <pubDate>Wed, 22 Jun 2022 20:52:56 +0900</pubDate>
+      
+      <guid>http://example.org/posts/2022/06/second-post/</guid>
+      <description>&lt;p&gt;Matthew McConaughey has always been an actor that I have respected and looked up to over the years. He is a very unique individual with an incredibly unique view of the world we live in today. As Joe Rogan said, he has some form of whiskey sipping philosophy that captivates your attention and always leaves you with a one-liner you will never forget. He gave a commencement speech at the University of Houston where his father played college football and he revealed 13 truths that he has learned throughout his life that he thought would be a benefit for the graduating class of 2015.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>http://example.org/posts/2022/06/first-post/</link>
+      <pubDate>Wed, 22 Jun 2022 20:32:20 +0900</pubDate>
+      
+      <guid>http://example.org/posts/2022/06/first-post/</guid>
+      <description>&lt;p&gt;If I win, I will be happy. If I don’t, I won’t. It’s an if, then cause and effect,
+quid pro quo standard that we cannot sustain, because we immediately raise it
+every time we attain it. See, happiness demands a certain outcome.
+It is result reliant. And I say if happiness is what you’re after,
+then you’re going to be let down frequently and you’re going to be
+unhappy much of your time.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>http://example.org/resume/</link>
+      <pubDate>Tue, 21 Jun 2022 15:11:36 +0900</pubDate>
+      
+      <guid>http://example.org/resume/</guid>
+      <description>This is Resume page.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://example.org/contact/</link>
+      <pubDate>Tue, 21 Jun 2022 15:10:56 +0900</pubDate>
+      
+      <guid>http://example.org/contact/</guid>
+      <description>This is contact page.</description>
+    </item>
+    
+    <item>
+      <title>My Vacation</title>
+      <link>http://example.org/posts/2022/06/my-vacation/</link>
+      <pubDate>Thu, 02 Jun 2022 12:45:51 -0600</pubDate>
+      
+      <guid>http://example.org/posts/2022/06/my-vacation/</guid>
+      <description>Here are pictures from my recent trip to South Dakota.
+Mount Rushmore The Badlands Bison at Custer National Park </description>
+    </item>
+    
+    <item>
+      <title>A Random Walk Down Wall Street</title>
+      <link>http://example.org/books/money/a-random-walk-down-wall-street/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/books/money/a-random-walk-down-wall-street/</guid>
+      <description>Summary of the A Random Walk Down Wall Street</description>
+    </item>
+    
+    <item>
+      <title>Atomic Habits</title>
+      <link>http://example.org/books/life/atomic-habits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/books/life/atomic-habits/</guid>
+      <description>Summary of the Atomic Habits</description>
+    </item>
+    
+    <item>
+      <title>Awesomeco</title>
+      <link>http://example.org/projects/awesomeco/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/awesomeco/</guid>
+      <description>Summary of the Awesomeco project</description>
+    </item>
+    
+    <item>
+      <title>Common Stocks and Uncommon Profits</title>
+      <link>http://example.org/books/money/common-stocks-and-uncommon-profits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/books/money/common-stocks-and-uncommon-profits/</guid>
+      <description>Summary of the Common Stocks and Uncommon Profits</description>
+    </item>
+    
+    <item>
+      <title>Green Lights</title>
+      <link>http://example.org/books/life/green-lights/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/books/life/green-lights/</guid>
+      <description>Summary of the Green Lights</description>
+    </item>
+    
+    <item>
+      <title>Ikigai</title>
+      <link>http://example.org/books/life/ikigai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/books/life/ikigai/</guid>
+      <description>Summary of the Ikigai</description>
+    </item>
+    
+    <item>
+      <title>Inner Engineering</title>
+      <link>http://example.org/books/life/inner-engineering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/books/life/inner-engineering/</guid>
+      <description>Summary of the Inner Engineering</description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>http://example.org/tech/golang/golang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/golang/golang/</guid>
+      <description>Summary of the Golang</description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>http://example.org/tech/ims/ims/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/ims/ims/</guid>
+      <description>Summary of the IMS</description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>http://example.org/tech/kubernetes/kubernetes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/kubernetes/kubernetes/</guid>
+      <description>Summary of the Kubernetes</description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>http://example.org/tech/microservices/microservices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/microservices/microservices/</guid>
+      <description>Summary of the Microservices</description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>http://example.org/tech/rcs/rcs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/rcs/rcs/</guid>
+      <description>Summary of the Rcs</description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>http://example.org/tech/vertx/vertx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/vertx/vertx/</guid>
+      <description>Summary of the Vertx</description>
+    </item>
+    
+    <item>
+      <title>Jabberwocky</title>
+      <link>http://example.org/projects/jabberwocky/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/jabberwocky/</guid>
+      <description>Summary of the Jabberwocky project</description>
+    </item>
+    
+    <item>
+      <title>Late Bloomers</title>
+      <link>http://example.org/books/life/late-bloomers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/books/life/late-bloomers/</guid>
+      <description>Summary of the Late Bloomers</description>
+    </item>
+    
+    <item>
+      <title>Linkitivity</title>
+      <link>http://example.org/projects/linkitivity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/linkitivity/</guid>
+      <description>Summary of the Linkitivity project</description>
+    </item>
+    
+    <item>
+      <title>MasterClass With SuperInvestors</title>
+      <link>http://example.org/books/money/masterclass-with-superinvestors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/books/money/masterclass-with-superinvestors/</guid>
+      <description>Summary of the MasterClass With SuperInvestors</description>
+    </item>
+    
+    <item>
+      <title>Never Split the Difference</title>
+      <link>http://example.org/books/life/never-split-the-difference/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/books/life/never-split-the-difference/</guid>
+      <description>Summary of the Never Split the Difference</description>
+    </item>
+    
+    <item>
+      <title>One Up on Wall Street</title>
+      <link>http://example.org/books/money/one-up-on-wall-street/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/books/money/one-up-on-wall-street/</guid>
+      <description>Summary of the One Up on Wall Street</description>
+    </item>
+    
+    <item>
+      <title>Romancing the Balance Sheet</title>
+      <link>http://example.org/books/money/romancing-the-balance-sheet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/books/money/romancing-the-balance-sheet/</guid>
+      <description>Summary of the Romancing the Balance Sheet</description>
+    </item>
+    
+    <item>
+      <title>Sleep Smarter</title>
+      <link>http://example.org/books/health/sleep-smarter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/books/health/sleep-smarter/</guid>
+      <description>Summary of the Sleep Smarter</description>
+    </item>
+    
+    <item>
+      <title>The Coaching Habit</title>
+      <link>http://example.org/books/life/the-coaching-habit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/books/life/the-coaching-habit/</guid>
+      <description>Summary of the The Coaching Habit</description>
+    </item>
+    
+    <item>
+      <title>The Essays of Warren Buffet</title>
+      <link>http://example.org/books/money/the-essays-of-warren-buffet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/books/money/the-essays-of-warren-buffet/</guid>
+      <description>Summary of the The Essays of Warren Buffet</description>
+    </item>
+    
+    <item>
+      <title>The Five Rules of Successful Stock Investing</title>
+      <link>http://example.org/books/money/the-five-rules-of-successful-stock-investing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/books/money/the-five-rules-of-successful-stock-investing/</guid>
+      <description>Summary of the The Five Rules of Successful Stock Investing</description>
+    </item>
+    
+    <item>
+      <title>The Immortals of Meluha</title>
+      <link>http://example.org/books/fiction/the-immortals-of-meluha/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/books/fiction/the-immortals-of-meluha/</guid>
+      <description>Summary of the The Immortals of Meluha</description>
+    </item>
+    
+    <item>
+      <title>The Intelligent Investor</title>
+      <link>http://example.org/books/money/the-intelligent-investor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/books/money/the-intelligent-investor/</guid>
+      <description>Summary of the The Intelligent Investor</description>
+    </item>
+    
+    <item>
+      <title>The Little Book That Beats the Market</title>
+      <link>http://example.org/books/money/the-little-book-that-beats-the-market/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/books/money/the-little-book-that-beats-the-market/</guid>
+      <description>Summary of the The Little Book That Beats the Market</description>
+    </item>
+    
+    <item>
+      <title>The Psychology of Money</title>
+      <link>http://example.org/books/money/the-psychology-of-money/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/books/money/the-psychology-of-money/</guid>
+      <description>Summary of the The Psychology of Money</description>
+    </item>
+    
+    <item>
+      <title>The Rhythm of Life</title>
+      <link>http://example.org/books/life/the-rhythm-of-life/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/books/life/the-rhythm-of-life/</guid>
+      <description>Summary of the The Rhythm of Life</description>
+    </item>
+    
+    <item>
+      <title>The Simple Path to Wealth</title>
+      <link>http://example.org/books/money/the-simple-path-to-wealth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/books/money/the-simple-path-to-wealth/</guid>
+      <description>Summary of the The Simple Path to Wealth</description>
+    </item>
+    
+    <item>
+      <title>The Subtle Art of Not Giving a Fuck</title>
+      <link>http://example.org/books/life/the-subtle-art-of-not-giving-a-fuck/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/books/life/the-subtle-art-of-not-giving-a-fuck/</guid>
+      <description>Summary of the The Subtle Art of Not Giving a Fuck</description>
+    </item>
+    
+    <item>
+      <title>The Thoughtful Investor</title>
+      <link>http://example.org/books/money/the-thoughtful-investor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/books/money/the-thoughtful-investor/</guid>
+      <description>Summary of the The Thoughtful Investor</description>
+    </item>
+    
+    <item>
+      <title>Thinking Fast and Slow</title>
+      <link>http://example.org/books/money/thinking-fast-and-slow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/books/money/thinking-fast-and-slow/</guid>
+      <description>Summary of the Thinking Fast and Slow</description>
+    </item>
+    
+    <item>
+      <title>Who Will Cry When You Die</title>
+      <link>http://example.org/books/life/who-will-cry-when-you-die/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/books/life/who-will-cry-when-you-die/</guid>
+      <description>Summary of the Who Will Cry When You Die</description>
+    </item>
+    
+  </channel>
+</rss>

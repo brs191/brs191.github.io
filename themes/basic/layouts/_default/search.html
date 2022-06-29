@@ -1,0 +1,17 @@
+{{ define "main" }}
+
+    <h2>{{ .Title }}</h2>
+
+    <input type= "search" id= "searchField" >
+    <button id= "searchButton" >Search</button>
+    <input id= "allwords" type= "checkbox" >
+    <label for= "allwords" >Require all words</label>
+
+    <div id= "output" >
+        <p>Waiting for search input</p>
+    </div>
+
+    {{ $js := resources.Get "js/app.js"| minify | fingerprint }}
+    <script src= "{{ $js.RelPermalink }}" ></script>
+
+{{ end }}

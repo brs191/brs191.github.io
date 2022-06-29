@@ -1,0 +1,20 @@
+{ "projects" :
+[
+  {
+    "name" : "Vertx" ,
+    "url" : "https://github.com/brs191/vertx"
+  },
+  {
+    "name" : "Gradle" ,
+    "url" : "https://github.com/brs191/gradleTemplate"
+  },
+  {
+    "name" : "RabbitMQ" ,
+    "url" : "https://github.com/brs191/rabbitmq"
+  },
+  {
+    "name" : "Go" ,
+    "url" : "https://github.com/brs191/Go-Examples"
+  }
+]
+}

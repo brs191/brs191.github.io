@@ -1,0 +1,17 @@
+{{define "main"}}
+
+<h3>Social Media</h3>
+<ul>
+    {{range .Site.Data.socialmedia.accounts}}
+    <li><a href= "{{ .url }}" >{{ .name }}</a></li>
+    {{end}}
+</ul>
+
+<h3>Github</h3>
+<ul>
+    {{range .Site.Data.github.projects}}
+    <li><a href= "{{ .url }}" >{{ .name }}</a></li>
+    {{end}}
+</ul>
+
+{{end}}

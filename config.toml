@@ -1,0 +1,23 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = "Life is BeautiFULL"
+theme = 'basic'
+disqusShortname = "raja-space"
+Paginate = 5
+
+[params]
+author = "Raja Shekar Bollam"
+description = "This portfolio is created from 'Build Websites with Hugo' book"
+github_url = "https://api.github.com/users"
+github_user = "brs191"
+
+[permalinks]
+posts = "posts/:year/:month/:slug/"
+year = "/posts/:slug/"
+month = "/posts/:slug/"
+
+[taxonomies]
+year = "year"
+month = "month"
+tag = "tags"
+category = "categories"

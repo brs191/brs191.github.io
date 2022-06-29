@@ -1,0 +1,43 @@
+{{ define "main" }}
+<article class= "post" >
+    <header>
+        <h2>{{ .Title }}</h2>
+        <p>
+            By {{ .Params.Author }}
+        </p>
+        <p>
+            Posted {{ .Date.Format "January 2, 2006" }}
+            <span class= "tags" >
+                in
+                {{ range .Params.tags }}
+                <a class= "tag" href= "/tags/{{ . | urlize }}" >{{ . }}</a>
+                {{ end }}
+            </span>
+        </p>
+        <p>
+            Reading time: {{ math.Round (div (countwords .Content) 200.0) }} minutes.
+        </p>
+    </header>
+    <section class= "body" >
+        {{ .Content }}
+    </section>
+
+    <section class= "related" >
+        {{ $related := .Site.RegularPages.Related . | first 5 }}
+        {{ with $related }}
+        <h3>Related pages</h3>
+        <ul>
+            {{ range . }}
+            <li><a href= "{{ .RelPermalink }}" >{{ .Title }}</a></li>
+            {{ end }}
+        </ul>
+        {{ end }}
+    </section>
+
+    <section class= "comments" >
+        <h3>Comments</h3>
+        {{ template "_internal/disqus.html" . }}
+    </section>
+
+</article>
+{{ end }}

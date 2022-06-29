@@ -1,0 +1,21 @@
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title >
+        {{- if .Page.IsHome -}}
+            {{.Site.Title}}
+        {{- else -}}
+            {{.Title}} - {{.Site.Title}}
+        {{- end -}}
+    </title>
+    <meta name="author" content="{{.Site.Params.author}}">
+    <meta name="description" content="
+    {{- with .Page.Description -}}
+        {{.}}
+    {{- else -}}
+        {{.Site.Params.description}}
+    {{- end -}}
+    ">
+    {{ $css := resources.Get "css/style.scss" | toCSS | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $css.RelPermalink }}">
+</head>

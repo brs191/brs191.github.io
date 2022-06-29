@@ -1,0 +1,44 @@
+{{define "main"}}
+<h2>{{.Title}}</h2>
+
+{{.Content}}
+
+<div class="books">
+    <section class="life">
+        <h3>Life</h3>
+        {{ range .Pages }}
+        {{- if hasPrefix .RelPermalink "/books/life/" -}}
+        <li><a href="{{.RelPermalink}}">{{ .Title }}</a></li>
+        {{ end }}
+        {{ end }}
+    </section>
+
+    <section class="money">
+        <h3>Money</h3>
+        {{ range .Pages }}
+        {{- if hasPrefix .RelPermalink "/books/money/" -}}
+        <li><a href="{{.RelPermalink}}">{{ .Title }}</a></li>
+        {{ end }}
+        {{ end }}
+    </section>
+
+    <section class="health">
+        <h3>Health</h3>
+        {{ range .Pages }}
+        {{- if hasPrefix .RelPermalink "/books/health/" -}}
+        <li><a href="{{.RelPermalink}}">{{ .Title }}</a></li>
+        {{ end }}
+        {{ end }}
+    </section>
+
+    <section class="fiction">
+        <h3>Fiction</h3>
+        {{ range .Pages }}
+        {{- if hasPrefix .RelPermalink "/books/fiction/" -}}
+        <li><a href="{{.RelPermalink}}">{{ .Title }}</a></li>
+        {{ end }}
+        {{ end }}
+    </section>
+
+</div>
+{{end}}
