@@ -2,232 +2,232 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Books on Life is BeautiFULL</title>
-    <link>http://example.org/books/</link>
+    <link>https://brs191.github.io/books/</link>
     <description>Recent content in Books on Life is BeautiFULL</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/books/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://brs191.github.io/books/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Random Walk Down Wall Street</title>
-      <link>http://example.org/books/money/a-random-walk-down-wall-street/</link>
+      <link>https://brs191.github.io/books/money/a-random-walk-down-wall-street/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/books/money/a-random-walk-down-wall-street/</guid>
+      <guid>https://brs191.github.io/books/money/a-random-walk-down-wall-street/</guid>
       <description>Summary of the A Random Walk Down Wall Street</description>
     </item>
     
     <item>
       <title>Atomic Habits</title>
-      <link>http://example.org/books/life/atomic-habits/</link>
+      <link>https://brs191.github.io/books/life/atomic-habits/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/books/life/atomic-habits/</guid>
+      <guid>https://brs191.github.io/books/life/atomic-habits/</guid>
       <description>Summary of the Atomic Habits</description>
     </item>
     
     <item>
       <title>Common Stocks and Uncommon Profits</title>
-      <link>http://example.org/books/money/common-stocks-and-uncommon-profits/</link>
+      <link>https://brs191.github.io/books/money/common-stocks-and-uncommon-profits/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/books/money/common-stocks-and-uncommon-profits/</guid>
+      <guid>https://brs191.github.io/books/money/common-stocks-and-uncommon-profits/</guid>
       <description>Summary of the Common Stocks and Uncommon Profits</description>
     </item>
     
     <item>
       <title>Green Lights</title>
-      <link>http://example.org/books/life/green-lights/</link>
+      <link>https://brs191.github.io/books/life/green-lights/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/books/life/green-lights/</guid>
+      <guid>https://brs191.github.io/books/life/green-lights/</guid>
       <description>Summary of the Green Lights</description>
     </item>
     
     <item>
       <title>Ikigai</title>
-      <link>http://example.org/books/life/ikigai/</link>
+      <link>https://brs191.github.io/books/life/ikigai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/books/life/ikigai/</guid>
+      <guid>https://brs191.github.io/books/life/ikigai/</guid>
       <description>Summary of the Ikigai</description>
     </item>
     
     <item>
       <title>Inner Engineering</title>
-      <link>http://example.org/books/life/inner-engineering/</link>
+      <link>https://brs191.github.io/books/life/inner-engineering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/books/life/inner-engineering/</guid>
+      <guid>https://brs191.github.io/books/life/inner-engineering/</guid>
       <description>Summary of the Inner Engineering</description>
     </item>
     
     <item>
       <title>Late Bloomers</title>
-      <link>http://example.org/books/life/late-bloomers/</link>
+      <link>https://brs191.github.io/books/life/late-bloomers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/books/life/late-bloomers/</guid>
+      <guid>https://brs191.github.io/books/life/late-bloomers/</guid>
       <description>Summary of the Late Bloomers</description>
     </item>
     
     <item>
       <title>MasterClass With SuperInvestors</title>
-      <link>http://example.org/books/money/masterclass-with-superinvestors/</link>
+      <link>https://brs191.github.io/books/money/masterclass-with-superinvestors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/books/money/masterclass-with-superinvestors/</guid>
+      <guid>https://brs191.github.io/books/money/masterclass-with-superinvestors/</guid>
       <description>Summary of the MasterClass With SuperInvestors</description>
     </item>
     
     <item>
       <title>Never Split the Difference</title>
-      <link>http://example.org/books/life/never-split-the-difference/</link>
+      <link>https://brs191.github.io/books/life/never-split-the-difference/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/books/life/never-split-the-difference/</guid>
+      <guid>https://brs191.github.io/books/life/never-split-the-difference/</guid>
       <description>Summary of the Never Split the Difference</description>
     </item>
     
     <item>
       <title>One Up on Wall Street</title>
-      <link>http://example.org/books/money/one-up-on-wall-street/</link>
+      <link>https://brs191.github.io/books/money/one-up-on-wall-street/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/books/money/one-up-on-wall-street/</guid>
+      <guid>https://brs191.github.io/books/money/one-up-on-wall-street/</guid>
       <description>Summary of the One Up on Wall Street</description>
     </item>
     
     <item>
       <title>Romancing the Balance Sheet</title>
-      <link>http://example.org/books/money/romancing-the-balance-sheet/</link>
+      <link>https://brs191.github.io/books/money/romancing-the-balance-sheet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/books/money/romancing-the-balance-sheet/</guid>
+      <guid>https://brs191.github.io/books/money/romancing-the-balance-sheet/</guid>
       <description>Summary of the Romancing the Balance Sheet</description>
     </item>
     
     <item>
       <title>Sleep Smarter</title>
-      <link>http://example.org/books/health/sleep-smarter/</link>
+      <link>https://brs191.github.io/books/health/sleep-smarter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/books/health/sleep-smarter/</guid>
+      <guid>https://brs191.github.io/books/health/sleep-smarter/</guid>
       <description>Summary of the Sleep Smarter</description>
     </item>
     
     <item>
       <title>The Coaching Habit</title>
-      <link>http://example.org/books/life/the-coaching-habit/</link>
+      <link>https://brs191.github.io/books/life/the-coaching-habit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/books/life/the-coaching-habit/</guid>
+      <guid>https://brs191.github.io/books/life/the-coaching-habit/</guid>
       <description>Summary of the The Coaching Habit</description>
     </item>
     
     <item>
       <title>The Essays of Warren Buffet</title>
-      <link>http://example.org/books/money/the-essays-of-warren-buffet/</link>
+      <link>https://brs191.github.io/books/money/the-essays-of-warren-buffet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/books/money/the-essays-of-warren-buffet/</guid>
+      <guid>https://brs191.github.io/books/money/the-essays-of-warren-buffet/</guid>
       <description>Summary of the The Essays of Warren Buffet</description>
     </item>
     
     <item>
       <title>The Five Rules of Successful Stock Investing</title>
-      <link>http://example.org/books/money/the-five-rules-of-successful-stock-investing/</link>
+      <link>https://brs191.github.io/books/money/the-five-rules-of-successful-stock-investing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/books/money/the-five-rules-of-successful-stock-investing/</guid>
+      <guid>https://brs191.github.io/books/money/the-five-rules-of-successful-stock-investing/</guid>
       <description>Summary of the The Five Rules of Successful Stock Investing</description>
     </item>
     
     <item>
       <title>The Immortals of Meluha</title>
-      <link>http://example.org/books/fiction/the-immortals-of-meluha/</link>
+      <link>https://brs191.github.io/books/fiction/the-immortals-of-meluha/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/books/fiction/the-immortals-of-meluha/</guid>
+      <guid>https://brs191.github.io/books/fiction/the-immortals-of-meluha/</guid>
       <description>Summary of the The Immortals of Meluha</description>
     </item>
     
     <item>
       <title>The Intelligent Investor</title>
-      <link>http://example.org/books/money/the-intelligent-investor/</link>
+      <link>https://brs191.github.io/books/money/the-intelligent-investor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/books/money/the-intelligent-investor/</guid>
+      <guid>https://brs191.github.io/books/money/the-intelligent-investor/</guid>
       <description>Summary of the The Intelligent Investor</description>
     </item>
     
     <item>
       <title>The Little Book That Beats the Market</title>
-      <link>http://example.org/books/money/the-little-book-that-beats-the-market/</link>
+      <link>https://brs191.github.io/books/money/the-little-book-that-beats-the-market/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/books/money/the-little-book-that-beats-the-market/</guid>
+      <guid>https://brs191.github.io/books/money/the-little-book-that-beats-the-market/</guid>
       <description>Summary of the The Little Book That Beats the Market</description>
     </item>
     
     <item>
       <title>The Psychology of Money</title>
-      <link>http://example.org/books/money/the-psychology-of-money/</link>
+      <link>https://brs191.github.io/books/money/the-psychology-of-money/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/books/money/the-psychology-of-money/</guid>
+      <guid>https://brs191.github.io/books/money/the-psychology-of-money/</guid>
       <description>Summary of the The Psychology of Money</description>
     </item>
     
     <item>
       <title>The Rhythm of Life</title>
-      <link>http://example.org/books/life/the-rhythm-of-life/</link>
+      <link>https://brs191.github.io/books/life/the-rhythm-of-life/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/books/life/the-rhythm-of-life/</guid>
+      <guid>https://brs191.github.io/books/life/the-rhythm-of-life/</guid>
       <description>Summary of the The Rhythm of Life</description>
     </item>
     
     <item>
       <title>The Simple Path to Wealth</title>
-      <link>http://example.org/books/money/the-simple-path-to-wealth/</link>
+      <link>https://brs191.github.io/books/money/the-simple-path-to-wealth/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/books/money/the-simple-path-to-wealth/</guid>
+      <guid>https://brs191.github.io/books/money/the-simple-path-to-wealth/</guid>
       <description>Summary of the The Simple Path to Wealth</description>
     </item>
     
     <item>
       <title>The Subtle Art of Not Giving a Fuck</title>
-      <link>http://example.org/books/life/the-subtle-art-of-not-giving-a-fuck/</link>
+      <link>https://brs191.github.io/books/life/the-subtle-art-of-not-giving-a-fuck/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/books/life/the-subtle-art-of-not-giving-a-fuck/</guid>
+      <guid>https://brs191.github.io/books/life/the-subtle-art-of-not-giving-a-fuck/</guid>
       <description>Summary of the The Subtle Art of Not Giving a Fuck</description>
     </item>
     
     <item>
       <title>The Thoughtful Investor</title>
-      <link>http://example.org/books/money/the-thoughtful-investor/</link>
+      <link>https://brs191.github.io/books/money/the-thoughtful-investor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/books/money/the-thoughtful-investor/</guid>
+      <guid>https://brs191.github.io/books/money/the-thoughtful-investor/</guid>
       <description>Summary of the The Thoughtful Investor</description>
     </item>
     
     <item>
       <title>Thinking Fast and Slow</title>
-      <link>http://example.org/books/money/thinking-fast-and-slow/</link>
+      <link>https://brs191.github.io/books/money/thinking-fast-and-slow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/books/money/thinking-fast-and-slow/</guid>
+      <guid>https://brs191.github.io/books/money/thinking-fast-and-slow/</guid>
       <description>Summary of the Thinking Fast and Slow</description>
     </item>
     
     <item>
       <title>Who Will Cry When You Die</title>
-      <link>http://example.org/books/life/who-will-cry-when-you-die/</link>
+      <link>https://brs191.github.io/books/life/who-will-cry-when-you-die/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/books/life/who-will-cry-when-you-die/</guid>
+      <guid>https://brs191.github.io/books/life/who-will-cry-when-you-die/</guid>
       <description>Summary of the Who Will Cry When You Die</description>
     </item>
     

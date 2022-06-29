@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IMS on Life is BeautiFULL</title>
-    <link>http://example.org/tags/ims/</link>
+    <link>https://brs191.github.io/tags/ims/</link>
     <description>Recent content in IMS on Life is BeautiFULL</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/tags/ims/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://brs191.github.io/tags/ims/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction</title>
-      <link>http://example.org/tech/ims/ims/</link>
+      <link>https://brs191.github.io/tech/ims/ims/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tech/ims/ims/</guid>
+      <guid>https://brs191.github.io/tech/ims/ims/</guid>
       <description>Summary of the IMS</description>
     </item>
     
     <item>
       <title>Introduction</title>
-      <link>http://example.org/tech/rcs/rcs/</link>
+      <link>https://brs191.github.io/tech/rcs/rcs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tech/rcs/rcs/</guid>
+      <guid>https://brs191.github.io/tech/rcs/rcs/</guid>
       <description>Summary of the Rcs</description>
     </item>
     

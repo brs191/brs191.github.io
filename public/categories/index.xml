@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Life is BeautiFULL</title>
-    <link>http://example.org/categories/</link>
+    <link>https://brs191.github.io/categories/</link>
     <description>Recent content in Categories on Life is BeautiFULL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Jun 2022 21:19:02 +0900</lastBuildDate><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Jun 2022 21:19:02 +0900</lastBuildDate><atom:link href="https://brs191.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Personal</title>
-      <link>http://example.org/categories/personal/</link>
+      <link>https://brs191.github.io/categories/personal/</link>
       <pubDate>Wed, 22 Jun 2022 21:19:02 +0900</pubDate>
       
-      <guid>http://example.org/categories/personal/</guid>
+      <guid>https://brs191.github.io/categories/personal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thoughts</title>
-      <link>http://example.org/categories/thoughts/</link>
+      <link>https://brs191.github.io/categories/thoughts/</link>
       <pubDate>Wed, 22 Jun 2022 21:19:02 +0900</pubDate>
       
-      <guid>http://example.org/categories/thoughts/</guid>
+      <guid>https://brs191.github.io/categories/thoughts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Architecture</title>
-      <link>http://example.org/categories/architecture/</link>
+      <link>https://brs191.github.io/categories/architecture/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/categories/architecture/</guid>
+      <guid>https://brs191.github.io/categories/architecture/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Infra</title>
-      <link>http://example.org/categories/infra/</link>
+      <link>https://brs191.github.io/categories/infra/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/categories/infra/</guid>
+      <guid>https://brs191.github.io/categories/infra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Programming</title>
-      <link>http://example.org/categories/programming/</link>
+      <link>https://brs191.github.io/categories/programming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/categories/programming/</guid>
+      <guid>https://brs191.github.io/categories/programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tech</title>
-      <link>http://example.org/categories/tech/</link>
+      <link>https://brs191.github.io/categories/tech/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/categories/tech/</guid>
+      <guid>https://brs191.github.io/categories/tech/</guid>
       <description></description>
     </item>
     

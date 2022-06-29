@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Month on Life is BeautiFULL</title>
-    <link>http://example.org/month/</link>
+    <link>https://brs191.github.io/month/</link>
     <description>Recent content in Month on Life is BeautiFULL</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/month/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://brs191.github.io/month/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2022/06</title>
-      <link>http://example.org/posts/2022/06/</link>
+      <link>https://brs191.github.io/posts/2022/06/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/2022/06/</guid>
+      <guid>https://brs191.github.io/posts/2022/06/</guid>
       <description></description>
     </item>
     
