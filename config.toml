@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://brs191.github.io'
 languageCode = 'en-us'
 title = "Life is BeautiFULL"
 theme = 'basic'
