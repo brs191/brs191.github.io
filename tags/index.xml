@@ -1,1 +1,128 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Life is BeautiFULL</title><link>https://brs191.github.io/tags/</link><description>Recent content in Tags on Life is BeautiFULL</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 22 Jun 2022 20:38:38 +0900</lastBuildDate><atom:link href="https://brs191.github.io/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>html</title><link>https://brs191.github.io/tags/html/</link><pubDate>Wed, 22 Jun 2022 21:19:02 +0900</pubDate><guid>https://brs191.github.io/tags/html/</guid><description/></item><item><title>software</title><link>https://brs191.github.io/tags/software/</link><pubDate>Wed, 22 Jun 2022 21:19:02 +0900</pubDate><guid>https://brs191.github.io/tags/software/</guid><description/></item><item><title>family</title><link>https://brs191.github.io/tags/family/</link><pubDate>Thu, 02 Jun 2022 12:45:51 -0600</pubDate><guid>https://brs191.github.io/tags/family/</guid><description/></item><item><title>Fiction</title><link>https://brs191.github.io/tags/fiction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://brs191.github.io/tags/fiction/</guid><description/></item><item><title>Golang</title><link>https://brs191.github.io/tags/golang/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://brs191.github.io/tags/golang/</guid><description/></item><item><title>Health</title><link>https://brs191.github.io/tags/health/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://brs191.github.io/tags/health/</guid><description/></item><item><title>IMS</title><link>https://brs191.github.io/tags/ims/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://brs191.github.io/tags/ims/</guid><description/></item><item><title>Kubernetes</title><link>https://brs191.github.io/tags/kubernetes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://brs191.github.io/tags/kubernetes/</guid><description/></item><item><title>Life</title><link>https://brs191.github.io/tags/life/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://brs191.github.io/tags/life/</guid><description/></item><item><title>Microservices</title><link>https://brs191.github.io/tags/microservices/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://brs191.github.io/tags/microservices/</guid><description/></item><item><title>Money</title><link>https://brs191.github.io/tags/money/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://brs191.github.io/tags/money/</guid><description/></item><item><title>RCS</title><link>https://brs191.github.io/tags/rcs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://brs191.github.io/tags/rcs/</guid><description/></item><item><title>Vertx</title><link>https://brs191.github.io/tags/vertx/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://brs191.github.io/tags/vertx/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Life is BeautiFULL</title>
+    <link>https://brs191.github.io/tags/</link>
+    <description>Recent content in Tags on Life is BeautiFULL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Jun 2022 20:38:38 +0900</lastBuildDate><atom:link href="https://brs191.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>html</title>
+      <link>https://brs191.github.io/tags/html/</link>
+      <pubDate>Wed, 22 Jun 2022 21:19:02 +0900</pubDate>
+      
+      <guid>https://brs191.github.io/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software</title>
+      <link>https://brs191.github.io/tags/software/</link>
+      <pubDate>Wed, 22 Jun 2022 21:19:02 +0900</pubDate>
+      
+      <guid>https://brs191.github.io/tags/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>family</title>
+      <link>https://brs191.github.io/tags/family/</link>
+      <pubDate>Thu, 02 Jun 2022 12:45:51 -0600</pubDate>
+      
+      <guid>https://brs191.github.io/tags/family/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fiction</title>
+      <link>https://brs191.github.io/tags/fiction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://brs191.github.io/tags/fiction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Golang</title>
+      <link>https://brs191.github.io/tags/golang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://brs191.github.io/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health</title>
+      <link>https://brs191.github.io/tags/health/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://brs191.github.io/tags/health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IMS</title>
+      <link>https://brs191.github.io/tags/ims/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://brs191.github.io/tags/ims/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kubernetes</title>
+      <link>https://brs191.github.io/tags/kubernetes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://brs191.github.io/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life</title>
+      <link>https://brs191.github.io/tags/life/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://brs191.github.io/tags/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microservices</title>
+      <link>https://brs191.github.io/tags/microservices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://brs191.github.io/tags/microservices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Money</title>
+      <link>https://brs191.github.io/tags/money/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://brs191.github.io/tags/money/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RCS</title>
+      <link>https://brs191.github.io/tags/rcs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://brs191.github.io/tags/rcs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vertx</title>
+      <link>https://brs191.github.io/tags/vertx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://brs191.github.io/tags/vertx/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
