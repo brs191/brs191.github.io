@@ -14,5 +14,6 @@ tags:
     - Vertx
     - RCS
     - IMS
+    - Assorted
 ---
 This is the summary of the book "{{ replace .Name "-" " " | title }}"

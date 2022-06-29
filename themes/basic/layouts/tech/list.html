@@ -56,5 +56,14 @@
         {{ end }}
         {{ end }}
     </section>
+
+    <section class="misc">
+        <h3>Assorted</h3>
+        {{ range .Pages }}
+        {{- if hasPrefix .RelPermalink "/tech/misc/" -}}
+        <li><a href="{{.RelPermalink}}">{{ .Title }}</a></li>
+        {{ end }}
+        {{ end }}
+    </section>
 </div>
 {{ end }}
